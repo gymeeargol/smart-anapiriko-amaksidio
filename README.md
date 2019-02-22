@@ -20,14 +20,26 @@
 
 | Στοιχείο  | Ποσότητα | Κόστος € |
 | :-----------: | :-----------: | :-----------: |
-| Arduino Uno R3  | 1  | 25 |
-| LCD 16 x 2  | 1  | 
-| 250 kOhm,  Potentiometer | 1  |
-| 220 ohm Resistor  | 1  |
-| 10 kohm Resistor  | 3  |
-| Pushbutton | 3  |
-| Piezo | 1  |
-| 100 ohm Resistor | 1  |
+| [Arduino Uno R3](https://grobotronics.com/arduino-uno-rev3.html)  | 1  | 22.90  |
+| [Raspberry Pi 3 - Model B+](https://grobotronics.com/raspberry-pi-3-model-b-el.html)  | 1  | 41.90  |
+| [Adventures in Raspberry Pi - Foundation Edition](https://grobotronics.com/adventures-in-raspberry-pi-foundation-edition.html)  | 1  | 14.90  |
+| [BBC micro:bit with MI:pro Case and Accessories](https://grobotronics.com/bbc-micro-bit-with-mi-pro-case-and-accessories.html)  | 1  | 29.90  |
+| [BBC:MOVE Mini Buggy Kit](https://grobotronics.com/bbc-move-mini-buggy-kit.html) | 1 | 34.90  |
+| [BBC:MOVE Mini Bulldozer Add-On](https://grobotronics.com/bbc-move-mini-bulldozer-add-on.html) | 1 | 10.90  |
+| [Basic 20x4 Character LCD - White on Blue 5V](https://grobotronics.com/basic-20x4-character-lcd-white-on-blue-5v.html)  | 1  | 7.90  |
+| [Push Button Momentary - 12.5mm Black](https://grobotronics.com/push-button-momentary-12.5mm-black.html) | 5  | 2.50  |
+| [Push Button Momentary - 12.5mm Red](https://grobotronics.com/push-button-momentary-12.5mm-red.html) | 5  | 2.50  |
+| [Πιεζοηλεκτρικός Μετατροπέας Ήχου Εσώκλειστος Μεγάλος](https://grobotronics.com/large-enclosed-piezo-element-w-wires.html) | 2  | 2.60  |
+| [Πιεζοηλεκτρικός Μετατροπέας Ήχου Εσώκλειστος](https://grobotronics.com/sound-transducer-piezo-enclosed.html) | 2  | 1.60  |
+| [Κλιπ Μπαταρίας 9V](https://grobotronics.com/9v-battery-clip.html) | 2 | 1  |
+| [Φωτοβολταϊκή Κυψέλη 2W 136x110mm](https://grobotronics.com/solar-panel-2w-136x110mm.html) | 1 | 5.90  |
+| [Relay Module - 1 Channel 5V High Level Trigger](https://grobotronics.com/relay-module-1-channel-isolated.html) | 2 | 3.80  |
+| [Trimmer with Knob - 10Kohm (Breadboard Compatible)](https://grobotronics.com/trimmer-with-knob-10kohm-breadboard-compatible.html) | 2 | 1.60  |
+| Σύνολο (χωρίς ΦΠΑ)| | 148.63 |
+| ΦΠΑ (24%) | | 35.67 |
+| Σύνολο με ΦΠΑ | | 184.30 |
+
+ 
 
 
 ### Ενδεχόμενες επεκτάσεις:
